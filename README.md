@@ -1,7 +1,7 @@
 # Ticket booking application
 
 ## 📌 Overview
-This is a ticket booking application built using **Node.js**, **TypeScript**, **MySQL (in-memory)**, and **Redis**. It provides a seamless experience for booking tickets, canceling tickets, and processing reservations efficiently.
+This application is built using **Node.js**, **TypeScript**, **MySQL (in-memory)**, and **Redis**. It provides a seamless experience for booking tickets, canceling tickets, and processing reservations efficiently.
 
 ## 🚀 Features
 - User authentication and authorization (Sign-up, Login)
